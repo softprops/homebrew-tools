@@ -2,7 +2,7 @@ class Lux < Formula
   desc "a kubernetes log multiplexor"
   homepage "https://github.com/softprops/lux"
   url "https://github.com/softprops/lux/releases/download/v0.0.1/lux-Darwin-x86_64.tar.gz"
-  sha256 "870a49b1ed0b480bd3b67875682e313977df3c1ca79445be8e281ef98b30d613"
+  sha256 "cec31f04c2b13642ad34060b1c02e2954a8b45ab6e76ceb0898f3b0ddd3c163c"
 
   bottle :unneeded
 
