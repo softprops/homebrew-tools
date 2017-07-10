@@ -2,7 +2,7 @@ class Porteurbars < Formula
   desc "a tool for sharing portable git hosted project templates"
   homepage "https://github.com/softprops/porteurbars"
   url "https://github.com/softprops/porteurbars/releases/download/v0.1.1/porteurbars-Darwin-x86_64.tar.gz"
-  sha256 "3248dbc54f5c094192ca4efd601e9b92215a19c8728d513d2e74bdc19ab88f02"
+  sha256 "6d5b2c69a6b972ffe22af89484c25021f3e0e74d28933467f3cdcb10fea193a4"
   version "v0.1.1"
 
   bottle :unneeded
