@@ -1,4 +1,4 @@
-class Porteurbars < Formula
+class GitCodeowners < Formula
   desc "a git extention for Github CODEOWNERS files"
   homepage "https://github.com/softprops/git-codeowners"
   url "https://github.com/softprops/git-codeowners/releases/download/v0.1.0/git-codeowners-Darwin-x86_64.tar.gz"
