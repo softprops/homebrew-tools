@@ -1,9 +1,9 @@
 class GitCodeowners < Formula
   desc "a git extention for Github CODEOWNERS files"
   homepage "https://github.com/softprops/git-codeowners"
-  url "https://github.com/softprops/git-codeowners/releases/download/v0.1.0/git-codeowners-Darwin-x86_64.tar.gz"
-  sha256 "617ad73f4c1f2b9664c173a49961a872de6c3e1b92a6a70542af3f60b1ce8d22"
-  version "v0.1.0"
+  url "https://github.com/softprops/git-codeowners/releases/download/v0.1.1/git-codeowners-Darwin-x86_64.tar.gz"
+  sha256 "03bc70d034c4e13d90988876166a0bc175c937896f0f9b5acefc7b5ab2d339ce"
+  version "v0.1.1"
 
   bottle :unneeded
 
