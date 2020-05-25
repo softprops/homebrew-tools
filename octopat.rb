@@ -1,4 +1,4 @@
-class Porteurbars < Formula
+class Octopat < Formula
   desc "An interactive GitHub personal access token command line dispenser ✨"
   homepage "https://github.com/softprops/octopat"
   url "https://github.com/softprops/octopat/releases/download/v0.0.1/octopat-Darwin-x86_64.tar.gz"
