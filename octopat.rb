@@ -1,9 +1,9 @@
 class Octopat < Formula
   desc "An interactive GitHub personal access token command line dispenser ✨"
   homepage "https://github.com/softprops/octopat"
-  url "https://github.com/softprops/octopat/releases/download/v0.0.1/octopat-Darwin-x86_64.tar.gz"
-  sha256 "fc954f2c90595299f9958c16556a811327986ed3fc33771639d3d4823ae12013"
-  version "v0.0.1"
+  url "https://github.com/softprops/octopat/releases/download/v0.1.0/octopat-Darwin-x86_64.tar.gz"
+  sha256 "69d87a569c1620e7f42d8e11f568309a8a45dd6c23b5059cb8ca52ffd3be5242"
+  version "v0.1.0"
 
   bottle :unneeded
 
