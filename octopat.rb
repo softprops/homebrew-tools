@@ -5,8 +5,6 @@ class Octopat < Formula
   sha256 "4a50bee98c4b7e4b614befd6b40484e41aa0be809a1538cdeda36edde82963dd"
   version "v0.1.0"
 
-  bottle :unneeded
-
   def install
     bin.install "octopat"
   end
